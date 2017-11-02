@@ -1,0 +1,29 @@
+{
+  "name": "jaags",
+  "version": "1.0.0",
+  "description": "Local sale",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gourav890/jaags.git"
+  },
+  "keywords": [
+    "Local",
+    "sale",
+    "and",
+    "services"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gourav890/jaags/issues"
+  },
+  "homepage": "https://github.com/gourav890/jaags#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.6"
+  }
+}
